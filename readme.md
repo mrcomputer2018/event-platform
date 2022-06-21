@@ -1,34 +1,40 @@
-## Etapas
+# Etapas de criacao do projeto
 
-### npm create vite@lastest
+## npm create vite@lastest
+criando  projeto com Vite
 
-### cd projeto
+## cd projeto
+Indo para pasta do projeto
+## npm install
+Instalando todas as dependencias do projeto
+## npm install tailwindcss postcss autoprefixer -D
+Instalando  tailwindCSS para o vite
 
-# npm install
-
-# npm install tailwindcss postcss autoprefixer -D
-
-# npx tailwindcss init -p
+## npx tailwindcss init -p
 Criando o arquivo de configurcao do postcss
 para poder se integrar com o vite
 
-# Adicionando a tailwind.config.js
+## Adicionando a tailwind.config.js
  "./index.html",
     "./src/**/*.{vue,js,ts,jsx,tsx}",
 
-# Apagar arquivs desnecessarios
+## Apagar arquivs desnecessarios
 Apagando arquivos desnecessarios e limpando
 aps.tsx
 
-# Criando global.css na pasta styles
+## Criando global.css na pasta styles
 Adicionando as linhas
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-# Extensoes
+## Extensoes
 GraphQL
 Tailwind
 PostCSS Language Support
 
-# GraphCMS
+## Criando projeto GraphCMS
+
+## npm install @apollo/client graphql
+Instalando apollo e grapphql.
+Usar apollo para efetuar oo consuumo da API.
