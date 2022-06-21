@@ -12,6 +12,10 @@
 Criando o arquivo de configurcao do postcss
 para poder se integrar com o vite
 
+# Adicionando a tailwind.config.js
+ "./index.html",
+    "./src/**/*.{vue,js,ts,jsx,tsx}",
+
 # Apagar arquivs desnecessarios
 Apagando arquivos desnecessarios e limpando
 aps.tsx
@@ -22,7 +26,9 @@ Adicionando as linhas
 @tailwind components;
 @tailwind utilities;
 
-### Extensoes
+# Extensoes
 GraphQL
 Tailwind
 PostCSS Language Support
+
+# GraphCMS

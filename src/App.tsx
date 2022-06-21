@@ -1,7 +1,7 @@
 function App() {
   
   return (
-   <h1 className="text-5xl">Hello World!!!</h1>
+   <h1 className="title">Hello World!!!</h1>
   )
 }
 
