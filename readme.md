@@ -9,5 +9,20 @@
 ### npm install tailwindcss postcss autoprefixer -D
 
 ### npx tailwindcss init -p
-Criando o arquivo de configurcao do postcss
+- Criando o arquivo de configurcao do postcss
 para poder se integrar com o vite
+
+- ### Apagar arquivs desnecessarios
+Apagando arquivos desnecessarios e limpando
+aps.tsx
+
+### Criando global.css na pasta styles
+Adicionando as linhas
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+### Extensoes
+GraphQL
+Tailwind
+PostCSS Language Support
