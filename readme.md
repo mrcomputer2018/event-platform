@@ -35,6 +35,9 @@ PostCSS Language Support
 
 ## Criando projeto GraphCMS
 
-## npm install @apollo/client graphql
+### npm install @apollo/client graphql
 Instalando apollo e grapphql.
 Usar apollo para efetuar oo consuumo da API.
+
+### Criando pasta src/lib
+Criando oo arquivo apollo.ts dee coonfiguracao do apollo
