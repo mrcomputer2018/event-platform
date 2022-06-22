@@ -1,7 +1,12 @@
+import { Header } from "../components/Header"
+
 export function Event() {
     return(
-        <h1>
-            Evento
-        </h1>
+        <>
+            <Header/>
+            <h1>
+                Evento
+            </h1>
+        </>
     )
 }

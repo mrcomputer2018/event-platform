@@ -43,6 +43,8 @@ Usar apollo para efetuar o consuumo da API.
 Criando o arquivo apollo.ts de configuracao do apollo
 
 ### Tema tailwindCSS
+ir em taiwind.config.js e colocar as cores que deseja em extends.
+
 colors: {
   green: {
     300: '#00B37E',
@@ -73,4 +75,4 @@ colors: {
 Criando os componentes base da aplicacao
 
 ### Pagina de evento
-Criando a pagina de eventos 
+Criando a pagina de eventos e adicionando componentes.
