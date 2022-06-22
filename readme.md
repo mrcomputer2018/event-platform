@@ -68,3 +68,9 @@ colors: {
     900: '#09090A'
   }
 },
+
+### Componentes
+Criando os componentes base da aplicacao
+
+### Pagina de evento
+Criando a pagina de eventos 
